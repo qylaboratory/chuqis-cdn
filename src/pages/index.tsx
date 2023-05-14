@@ -37,6 +37,7 @@ export default function Home() {
                 <h1>Hello,</h1>
                 <h1>Here is <span className={styles.name}>Chuqis rustdesk</span>.</h1>
                 <p>远程桌面软件，开箱即用，无需任何配置</p>
+                <p>Key请联系管理员获取</p>
             </div>
             <div className={styles.wrapper}>
                 <HomePrimaryButton link='https://chuqis.com'>

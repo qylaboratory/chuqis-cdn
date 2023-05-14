@@ -39,11 +39,11 @@ export default function Home() {
                 <p>Front-end Developer / Back-end Developer / Blogger</p>
             </div>
             <div className={styles.wrapper}>
-                <HomePrimaryButton link='https://blog.redish101.top'>
-                    Blog
+                <HomePrimaryButton link='https://chuqis.com'>
+                    Website
                 </HomePrimaryButton>
-                <HomeButton link='https://github.com/Redish101'>
-                    GitHub
+                <HomeButton link='https://github.com/with-times'>
+                    Github
                 </HomeButton>
             </div>
             <footer className={styles.footer}>

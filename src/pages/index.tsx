@@ -35,15 +35,15 @@ export default function Home() {
         <div>
             <div className={styles.title}>
                 <h1>Hello,</h1>
-                <h1>I'm <span className={styles.name}>Redish101</span>.</h1>
-                <p>Front-end Developer / Back-end Developer / Blogger</p>
+                <h1>Here is <span className={styles.name}>Chuqis rustdesk</span>.</h1>
+                <p>远程桌面软件，开箱即用，无需任何配置</p>
             </div>
             <div className={styles.wrapper}>
                 <HomePrimaryButton link='https://chuqis.com'>
                     Website
                 </HomePrimaryButton>
-                <HomeButton link='https://github.com/with-times'>
-                    Github
+                <HomeButton link='rustdesk.chuqis.com'>
+                    Host
                 </HomeButton>
             </div>
             <footer className={styles.footer}>

@@ -48,7 +48,7 @@ export default function Home() {
             </div>
             <footer className={styles.footer}>
                 <span>
-                    © 2023 - {new Date().getFullYear()} Redish101. All rights reserved.
+                    © 2023 - {new Date().getFullYear()} 初柒科技. All rights reserved.
                     <Link href='/#/privacy-policy' className={styles.footer_link}>Privacy Policy</Link>
                 </span>
             </footer>

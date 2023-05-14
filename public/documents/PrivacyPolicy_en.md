@@ -54,7 +54,7 @@ For your sensitive information (such as passwords), we will encrypt the informat
 
 At the same time, all online services we provide will use encryption technology, such as Transport Layer Security Protocol (TLS), to ensure that your personal information will not be disclosed during transmission.
 
-However, it is safe without any security measures. Therefore, no website or service (including this website) can guarantee that your personal information will not be disclosed or modified 100%. So, if you think your information has been modified or leaked, please send an email to`admin@redish101.top`And describe the problem in detail. We will try our best to help you solve it.
+However, it is safe without any security measures. Therefore, no website or service (including this website) can guarantee that your personal information will not be disclosed or modified 100%. So, if you think your information has been modified or leaked, please send an email to`admin@chuqis.com`And describe the problem in detail. We will try our best to help you solve it.
 
 ## Information collection list
 

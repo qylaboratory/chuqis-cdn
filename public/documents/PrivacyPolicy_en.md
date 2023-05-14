@@ -7,7 +7,7 @@ Thank you for using our service! We pay great attention to your privacy. When yo
 ## Revise policy
 
 We reserve the right to modify the contents of this agreement at any time, and the effective version will be published on our website.
-Browsers, cdns, and `Service Workers` will cache this page for reasons such as speeding up website access, which may cause the text you are currently viewing to be not the latest version. Please refer to the latest version.
+Browsers, cdns will cache this page for reasons such as speeding up website access, which may cause the text you are currently viewing to be not the latest version. Please refer to the latest version.
 
 ## Definition
 
@@ -19,11 +19,11 @@ We will explain the meaning of some professional terms for you (these terms will
 
 **Cache (also known as "browser cache")** - In order to save network resources and speed up browsing, the browser stores the recently requested document on the user's disk. When the visitor requests the page again, the browser can display the document from the local disk, which can speed up the page reading.
 
-**This website (also known as "our service" and "this website")** - all websites deployed on the domain name `redish101.top` and its subdomains.
+**This website (also known as "our service" and "this website")** - all websites deployed on the domain name `chuqis.com` and its subdomains.
 
 ## Effective scope of this Privacy Policy
 
-All websites and applications developed by Redish101 and deployed on the domain name `redish101.top` and its sub-domains.
+All websites and applications developed by Chuqis Team and deployed on the domain name `chuqis.com` and its sub-domains.
 
 ## Why do we collect your information
 
@@ -38,17 +38,9 @@ In some cases, we will share your information with third parties:
 
 ## Who will we share your information with
 
-### Cloudflare
+### ChuqiCloud
 
-We will provide Cloudlare with some of your personal information to count website visits and prevent malicious requests.
-
-### Tianli CDN
-
-We will provide Tianli CDN with your IP address and request information for Tianli CDN to hijack malicious requests.
-
-### 51LA
-
-We will provide 51LA with your IP address and approximate location to count website visits.
+We will provide ChuqiCloud with your IP address and request information for ChuqiCloud to hijack malicious requests.
 
 ## How do we save your personal information
 
@@ -77,4 +69,4 @@ However, it is safe without any security measures. Therefore, no website or serv
 
 ****
 
-*[Redish101](https://redish101.top) reserves the right of final interpretation.*
+*[Chuqis Team](https://chuqis.com) reserves the right of final interpretation.*

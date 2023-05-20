@@ -35,16 +35,17 @@ export default function Home() {
         <div>
             <div className={styles.title}>
                 <h1>Hello,</h1>
-                <h1><span className={styles.name}>Chuqis rustdesk</span></h1>
-                <p>远程桌面软件，开箱即用，无需任何配置</p>
-                <p>Key请联系管理员获取</p>
+                <h1><span className={styles.name}>Chuqis Free CDN</span></h1>
+                <p>初柒公益静态资源加速</p>
+                <p>由初七云鼎力支持</p>
+                <p>由Fgaoxing开发 由JasonL维护</p>
             </div>
             <div className={styles.wrapper}>
                 <HomePrimaryButton link='https://chuqis.com'>
                     Website
                 </HomePrimaryButton>
-                <HomeButton link='https://www.chuqiyun.com/download/product_file?id=5'>
-                    Download
+                <HomeButton link='https://cdn2.chuqis.com'>
+                    Other
                 </HomeButton>
             </div>
             <footer className={styles.footer}>
